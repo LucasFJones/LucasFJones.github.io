@@ -3,7 +3,7 @@ title:               Lucas F. Jones
 tagline:             ''
 description:         ''
 url:                 https://LucasFJones.github.io
-baseurl:             ''
+baseurl:             'LucasFJones'
 paginate:            5
 permalink:           Posts/
 
