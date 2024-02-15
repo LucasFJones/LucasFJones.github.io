@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 ---
 
 ![sailing_boro](https://github.com/LucasFJones/LucasFJones.github.io/assets/65695212/7d00e378-5381-4143-a2cc-9deaef60f5cb)
