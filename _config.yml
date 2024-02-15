@@ -3,14 +3,14 @@ title:               Lucas F. Jones
 tagline:             ''
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://LucasFJones.github.io
-baseurl:             ''
+baseurl:             'https://github.com/LucasFJones'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
   name:              Lucas F. Jones
-  url:               
+  url:               https://github.com/LucasFJones
   email:             lucas.jones@uconn.edu
 
 # Gems
