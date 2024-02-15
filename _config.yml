@@ -5,7 +5,7 @@ description:         ''
 url:                 https://LucasFJones.github.io
 baseurl:             ''
 paginate:            5
-permalink:           pretty
+permalink:           Posts/
 
 # About/contact
 author:
