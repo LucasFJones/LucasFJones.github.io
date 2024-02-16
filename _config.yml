@@ -2,7 +2,7 @@
 title:               Lucas
 tagline:             ''
 description:         ''
-url:                 https://lucasfjones.github.io
+url:                 http://lucasfjones.github.io
 baseurl:             '/home'
 paginate:            5
 permalink:           /blog/:title
