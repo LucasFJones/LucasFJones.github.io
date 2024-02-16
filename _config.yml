@@ -1,9 +1,9 @@
 # Setup
-title:               LFJ
+title:               Lucas
 tagline:             ''
 description:         ''
 url:                 https://lucasfjones.github.io
-baseurl:             ''
+baseurl:             '/home'
 paginate:            5
 permalink:           /blog/:title
 
