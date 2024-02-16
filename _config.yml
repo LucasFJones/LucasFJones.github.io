@@ -10,7 +10,7 @@ permalink:           /blog/:title
 # About/contact
 author:
   name:              Lucas F. Jones
-  url:               https://github.com/LucasFJones
+  url:               https://LucasFJones.github.io
   email:             lucas.jones@uconn.edu
 
 # Gems
