@@ -1,16 +1,16 @@
 # Setup
-title:               Lucas F. Jones
+title:               LFJ
 tagline:             ''
 description:         ''
-url:                 https://LucasFJones.github.io
+url:                 https://lucasfjones.github.io
 baseurl:             '/home'
 paginate:            5
 permalink:           /blog/:title
 
 # About/contact
 author:
-  name:              Lucas F. Jones
-  url:               https://LucasFJones.github.io
+  name:              Lucas F Jones
+  url:               https://twitter.com/mdo
   email:             lucas.jones@uconn.edu
 
 # Gems
