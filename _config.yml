@@ -1,11 +1,11 @@
 # Setup
-title:               Lucas
+title:               Lucas Jones
 tagline:             ''
 description:         ''
 url:                 http://lucasfjones.github.io
-baseurl:             '/home'
+baseurl:             ''
 paginate:            5
-permalink:           /blog/:title
+permalink:           
 
 # About/contact
 author:
